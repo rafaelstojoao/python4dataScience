@@ -1,0 +1,17 @@
+# Introdução ao  Python com Ciência de Dados
+
+## Ementa
+1. Python: 
+  * Ambiente de Programação
+  * tipos de dados, sequências e operações, estruturas de controle e repetição
+  * Python: referências, funções, funções avançadas e comprehention
+  * Python: I/O e noções básicas de classes e objetos
+2. Numpy: 
+   * array, slicing, fancy index, copy e view
+   * operações com array, broadcasting
+3. Pandas: 
+   * dataframes, series, index, Pandas I/O (csv, json, excell)
+   * limpeza de dados
+4. Matplotlib:  construção de gráficos
+5. Introdução ao aprendizado de máquina
+6. Introdução ao processamento de linguagem Natural com NTKL
