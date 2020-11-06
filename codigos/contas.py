@@ -1,6 +1,5 @@
 # Esse é um módulo que faz contas
 
-
 def soma(a,b):
 	return a+b
 

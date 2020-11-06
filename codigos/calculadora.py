@@ -7,7 +7,7 @@ class Calculadora:
         res = 0.0
         
     def __str__(self):
-        return str("Sou uma calculadora")
+        return str("Sou uma calculadora, você pode fazer operações de soma, subtracao, multiplica, divide  e potencia. o que vai querer?")
 
     def soma(self,a,b):
         return a + b
@@ -24,6 +24,12 @@ class Calculadora:
     def potencia(self,a,b):
         return a**b
     
+
+
+
+
+
+
 
 
 
