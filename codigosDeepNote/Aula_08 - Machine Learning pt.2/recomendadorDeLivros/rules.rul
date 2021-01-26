@@ -1,0 +1,6 @@
+['MD01']-->['MD06']sup: 0.25 conf:0.8lift: 2.56conviction: 3.438
+['MD19']-->['MD22']sup: 0.125 conf:1.0lift: 4.0conviction: 0.0
+['MD34']-->['MD35']sup: 0.1875 conf:1.0lift: 4.0conviction: 0.0
+['MD38']-->['MD39']sup: 0.125 conf:1.0lift: 8.0conviction: 0.0
+['MD06', 'MD34']-->['MD35']sup: 0.125 conf:1.0lift: 4.0conviction: 0.0
+['MD26', 'MD38']-->['MD39']sup: 0.125 conf:1.0lift: 8.0conviction: 0.0
